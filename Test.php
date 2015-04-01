@@ -1,5 +1,4 @@
 <?php
 
-echo "In ganesh branch ";
 
-?>
+echo "conflict in master and commited from ganesh branch ";
