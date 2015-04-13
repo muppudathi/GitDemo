@@ -1,1 +1,1 @@
-remote new file content
+file content
