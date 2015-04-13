@@ -1,1 +1,1 @@
-<?php echo "remote new file content";?>
+remote new file content
